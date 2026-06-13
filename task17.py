@@ -65,3 +65,23 @@ print("Lowest Marks",np.max(marks))
 print(marks+5)"""
 
 print(marks[marks>80])
+
+
+
+#task 11 to 12
+import numpy as np
+arr=np.zeros(10)
+print(arr)
+arr=np.ones(8)
+print(arr)
+
+
+#task 13
+import numpy as np
+arr=np.arange(1,11)
+print(arr)
+
+#task14
+import numpy as np
+arr=np.arange(2,21,2)
+print(arr)
